@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Go语言 on 暮羽中</title>
+        <link>https://muyuzhong.github.io/categories/go%E8%AF%AD%E8%A8%80/</link>
+        <description>Recent content in Go语言 on 暮羽中</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>暮羽中</copyright>
+        <lastBuildDate>Sat, 31 Jan 2026 17:15:00 +0800</lastBuildDate><atom:link href="https://muyuzhong.github.io/categories/go%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Go语言并发学习笔记</title>
+        <link>https://muyuzhong.github.io/p/go%E8%AF%AD%E8%A8%80%E5%B9%B6%E5%8F%91%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+        <pubDate>Sat, 31 Jan 2026 17:15:00 +0800</pubDate>
+        
+        <guid>https://muyuzhong.github.io/p/go%E8%AF%AD%E8%A8%80%E5%B9%B6%E5%8F%91%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+        <description>&lt;p&gt;这里开始写你的正文&amp;hellip;
+hello im z&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
