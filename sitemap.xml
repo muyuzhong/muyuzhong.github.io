@@ -3,34 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://muyuzhong.github.io/</loc>
-    <lastmod>2026-01-31T17:15:00+08:00</lastmod>
+    <lastmod>2026-01-31T20:32:15+08:00</lastmod>
   </url><url>
-    <loc>https://muyuzhong.github.io/categories/</loc>
-    <lastmod>2026-01-31T17:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://muyuzhong.github.io/tags/goroutine/</loc>
-    <lastmod>2026-01-31T17:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://muyuzhong.github.io/categories/go%E8%AF%AD%E8%A8%80/</loc>
-    <lastmod>2026-01-31T17:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://muyuzhong.github.io/p/go%E8%AF%AD%E8%A8%80%E5%B9%B6%E5%8F%91%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2026-01-31T17:15:00+08:00</lastmod>
+    <loc>https://muyuzhong.github.io/p/firstpost/</loc>
+    <lastmod>2026-01-31T20:32:15+08:00</lastmod>
   </url><url>
     <loc>https://muyuzhong.github.io/post/</loc>
-    <lastmod>2026-01-31T17:15:00+08:00</lastmod>
+    <lastmod>2026-01-31T20:32:15+08:00</lastmod>
   </url><url>
-    <loc>https://muyuzhong.github.io/tags/</loc>
-    <lastmod>2026-01-31T17:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://muyuzhong.github.io/tags/%E5%B9%B6%E5%8F%91/</loc>
-    <lastmod>2026-01-31T17:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://muyuzhong.github.io/categories/%E5%90%8E%E7%AB%AF/</loc>
-    <lastmod>2026-01-31T17:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://muyuzhong.github.io/p/myblog1/</loc>
-    <lastmod>2026-01-31T16:52:33+08:00</lastmod>
+    <loc>https://muyuzhong.github.io/categories/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://muyuzhong.github.io/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
@@ -54,6 +36,9 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://muyuzhong.github.io/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://muyuzhong.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://muyuzhong.github.io/categories/themes/</loc>

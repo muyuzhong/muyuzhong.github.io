@@ -7,23 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>暮羽中</copyright>
-        <lastBuildDate>Sat, 31 Jan 2026 17:15:00 +0800</lastBuildDate><atom:link href="https://muyuzhong.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Goroutine</title>
-        <link>https://muyuzhong.github.io/tags/goroutine/</link>
-        <pubDate>Sat, 31 Jan 2026 17:15:00 +0800</pubDate>
-        
-        <guid>https://muyuzhong.github.io/tags/goroutine/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>并发</title>
-        <link>https://muyuzhong.github.io/tags/%E5%B9%B6%E5%8F%91/</link>
-        <pubDate>Sat, 31 Jan 2026 17:15:00 +0800</pubDate>
-        
-        <guid>https://muyuzhong.github.io/tags/%E5%B9%B6%E5%8F%91/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://muyuzhong.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Css</title>
         <link>https://muyuzhong.github.io/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
